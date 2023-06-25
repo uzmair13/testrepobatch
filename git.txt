@@ -1,0 +1,121 @@
+cd/
+
+git status 
+
+dir 
+
+git commit -m "filename "
+
+cd project1 
+
+git --version
+
+git add .
+
+git commit -m " "
+
+git log
+
+git merge 
+
+git branch (name)
+
+git checkout Branch name
+
+git branch -v
+
+git commit -m "dev file1 new change1"
+
+git reset
+
+git reset --hard
+
+git revert
+
+git branch -v
+
+git stash
+
+git stash list
+
+git stash -p
+
+git stash@{0}
+
+git stash pop
+
+git stash apply stash@{0}
+
+git stash clear
+
+creat repo/public
+
+git config --list
+
+git reset 
+
+git reset --hard
+
+git revert
+
+git stash
+
+git stash list
+
+git stash pop 
+
+git show stash@{0}
+
+git stash clear
+
+
+
+git config --global user.name "uzmair"
+git config --global user.email "uzmairatta88@gmail.com"      git config --global user.name "uzmair"
+
+git config --globle --replace-all user.name
+git config --globle --replace-all user.email
+
+
+----GIT LINUX COMMANDS----
+git --version
+
+yum install git. red hat
+
+yum install update
+
+sudo su -
+
+mkdir repo
+ls
+touch file1
+ls
+
+file inter command (vi file1)
+
+
+git config --global user.email "uzmairatta88@gmail.com"
+
+
+-----git hub----
+
+git clone https://github.com/Uzmair12/Devopsbatch10.git
+
+git pull origin main
+
+git remote -v
+
+git push -u origin main
+
+git push -u origin fetch
+
+git pull origin hr
+
+git push -u production
+
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+cd/
+
+git status 
+
+dir 
+
+git commit -m "filename "
+
+cd project1 
+
+git --version
+
+git add .
+
+git commit -m " "
+
+git log
+
+git merge 
+
+git branch (name)
+
+git checkout Branch name
+
+git branch -v
+
+git commit -m "dev file1 new change1"
+
+git reset
+
+git reset --hard
+
+git revert
+
+git branch -v
+
+git stash
+
+git stash list
+
+git stash -p
+
+git stash@{0}
+
+git stash pop
+
+git stash apply stash@{0}
+
+git stash clear
+
+creat repo/public
+
+git config --list
+
+git reset 
+
+git reset --hard
+
+git revert
+
+git stash
+
+git stash list
